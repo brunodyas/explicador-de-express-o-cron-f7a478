@@ -1,3 +1,3 @@
 # Notas
 
-CLI que valida e resume em linguagem natural uma expressão cron de 5 campos.
+Serviço pequeno com enfileirar/desenfileirar tarefas (design de fila interna, API ou CLI conforme linguagem).
