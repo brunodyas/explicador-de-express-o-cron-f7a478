@@ -1,0 +1,4 @@
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.csproj.CoreCompileInputs.cache
