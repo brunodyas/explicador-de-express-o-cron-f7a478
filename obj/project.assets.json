@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-explicador-de-express-o-cron-f7a478\\djenus_csharp_explicador_de_express_o_cron_f7a47.csproj",
-      "projectName": "djenus_csharp_explicador_de_express_o_cron_f7a47",
-      "projectPath": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-explicador-de-express-o-cron-f7a478\\djenus_csharp_explicador_de_express_o_cron_f7a47.csproj",
+      "projectUniqueName": "D:\\Projetos\\GitAuto\\workspace\\explicador-de-express-o-cron-f7a478\\explicador_de_express_o_cron_f7a478.csproj",
+      "projectName": "explicador_de_express_o_cron_f7a478",
+      "projectPath": "D:\\Projetos\\GitAuto\\workspace\\explicador-de-express-o-cron-f7a478\\explicador_de_express_o_cron_f7a478.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-explicador-de-express-o-cron-f7a478\\obj\\",
+      "outputPath": "D:\\Projetos\\GitAuto\\workspace\\explicador-de-express-o-cron-f7a478\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

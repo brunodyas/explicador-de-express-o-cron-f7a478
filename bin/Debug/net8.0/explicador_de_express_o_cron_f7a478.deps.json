@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "explicador_de_express_o_cron_f7a478/1.0.0": {
+        "runtime": {
+          "explicador_de_express_o_cron_f7a478.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "explicador_de_express_o_cron_f7a478/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\bin\Debug\net8.0\explicador_de_express_o_cron_f7a478.exe
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\bin\Debug\net8.0\explicador_de_express_o_cron_f7a478.deps.json
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\bin\Debug\net8.0\explicador_de_express_o_cron_f7a478.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\bin\Debug\net8.0\explicador_de_express_o_cron_f7a478.dll
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\bin\Debug\net8.0\explicador_de_express_o_cron_f7a478.pdb
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\explicador_de_express_o_cron_f7a478.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\explicador_de_express_o_cron_f7a478.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\explicador_de_express_o_cron_f7a478.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\explicador_de_express_o_cron_f7a478.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\explicador_de_express_o_cron_f7a478.dll
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\refint\explicador_de_express_o_cron_f7a478.dll
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\explicador_de_express_o_cron_f7a478.pdb
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\explicador_de_express_o_cron_f7a478.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\ref\explicador_de_express_o_cron_f7a478.dll
