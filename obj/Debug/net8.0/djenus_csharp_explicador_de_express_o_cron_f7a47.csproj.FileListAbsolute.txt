@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\
 D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\bin\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.exe
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\bin\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.deps.json
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\bin\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\bin\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\bin\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.pdb
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\refint\djenus_csharp_explicador_de_express_o_cron_f7a47.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.pdb
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\djenus_csharp_explicador_de_express_o_cron_f7a47.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\ref\djenus_csharp_explicador_de_express_o_cron_f7a47.dll

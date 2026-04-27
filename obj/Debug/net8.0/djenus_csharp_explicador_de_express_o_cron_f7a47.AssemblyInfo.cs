@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("djenus_csharp_explicador_de_express_o_cron_f7a47")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+646041f4204ecaf4df6e26351f04a4e316729b6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a0e439d5d66162a7ac7647a01b3e42647d6c53f")]
 [assembly: System.Reflection.AssemblyProductAttribute("djenus_csharp_explicador_de_express_o_cron_f7a47")]
 [assembly: System.Reflection.AssemblyTitleAttribute("djenus_csharp_explicador_de_express_o_cron_f7a47")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

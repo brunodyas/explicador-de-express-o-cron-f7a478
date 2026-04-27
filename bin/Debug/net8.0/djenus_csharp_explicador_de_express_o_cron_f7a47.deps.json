@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "djenus_csharp_explicador_de_express_o_cron_f7a47/1.0.0": {
+        "runtime": {
+          "djenus_csharp_explicador_de_express_o_cron_f7a47.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "djenus_csharp_explicador_de_express_o_cron_f7a47/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
