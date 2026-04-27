@@ -1,3 +1,3 @@
 # Notas
 
-Protótipo que deduplica pedidos por chave em memória — estudo de desenho para APIs.
+Script que faz GET em uma URL e reporta status e latência.
