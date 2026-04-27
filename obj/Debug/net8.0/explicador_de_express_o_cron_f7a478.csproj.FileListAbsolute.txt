@@ -12,3 +12,4 @@ D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8
 D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\explicador_de_express_o_cron_f7a478.pdb
 D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\explicador_de_express_o_cron_f7a478.genruntimeconfig.cache
 D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\ref\explicador_de_express_o_cron_f7a478.dll
+D:\Projetos\GitAuto\workspace\explicador-de-express-o-cron-f7a478\obj\Debug\net8.0\explicador_de_express_o_cron_f7a478.sourcelink.json
